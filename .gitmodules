@@ -1,0 +1,3 @@
+[submodule "themes/chulapa"]
+	path = themes/chulapa
+	url = https://github.com/dieghernan/chulapa.git
