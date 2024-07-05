@@ -1,5 +1,5 @@
 ---
-layout: landingpage
+layout: default
 title: MrLucioCampos
 header_type: hero
 subtitle: New Portfolio Website Underway
