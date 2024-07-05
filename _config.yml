@@ -142,10 +142,9 @@ googlefonts:
 
 # Theme and colors
 chulapa-skin: 
-  highlight     :  # default["default"]
-  skin         :  deeply # Optional predefined skins
-  autothemer    :  true # Bool: Use autotheming
-  vars          :    
+  skin       :  gitdev-dark 
+  autothemer  :  # Autotheming may not have any effect
+  vars        :   
     primary     : "#ffbe98" #default ["#007bff"] - Bootstrap blue
     
 # D. Jekyll Defaults and collections: see https://jekyllrb.com/
