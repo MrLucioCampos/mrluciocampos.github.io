@@ -128,10 +128,10 @@ footer:
       icon  : "fab fa-instagram" # Fontawesome 5 icon
       url   : https://instagram.com/MrLucioCampos # A link or email: https://twitter.com/jack, mail@example.com
     - label: "Lucio on TikTok"
-      icon: "fa fa-tiktok"
+      icon: "fab fa-tiktok"
       url:  "https://www.tiktok.com/@mrluciocampos"
     - label: "Lucio on Twitch"
-      icon: "fa fa-twitch"
+      icon: "fab fa-twitch"
       url:  "https://www.twitch.tv/mrluciocampos"
   copyright: # default is © <year> <name> 
   
