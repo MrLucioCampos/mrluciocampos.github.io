@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MrLucioCampos
-header_type: hero
+header_type: base
 subtitle: New Portfolio Website Underway
 ---
 
