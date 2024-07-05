@@ -21,7 +21,7 @@ timezone                : "America/Denver"    #"Europe/Madrid ,see https://jekyl
 og_image                :     #default[author.avatar (see below)] or [github-avatar]
 twitter_site            :     #Avoid @
 author:
-  name                  :  Your Name   # Name Surname Company
+  name                  :  MrLucioCampos   # Name Surname Company
   avatar                :     # Try a square file. Info: Your github avatar on https://github.com/[USERNAME].png
   location              :  "Texas, USA"   # New York, USA 
 #  links:                
