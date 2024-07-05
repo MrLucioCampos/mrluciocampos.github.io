@@ -1,10 +1,10 @@
 ---
 layout: default
 title: MrLucioCampos
-header_type: image
+header_type: splash 
 subtitle: New Portfolio Website Underway
 ---
-
+Splash
 Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
 
 Contains basic configuration to get you a site with:
