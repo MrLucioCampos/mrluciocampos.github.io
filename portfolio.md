@@ -3,12 +3,12 @@ layout: page
 title: Portfolio
 permalink: /portfolio/
 ---
-<div class="portfolio">
-  {% for item in site.portfolio %}
-    <div class="portfolio-item">
-      <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
-      <img src="{{ item.image }}" alt="{{ item.title }}">
-      <p>{{ item.description }}</p>
-    </div>
-  {% endfor %}
-</div>
+# My Portfolio
+
+## Project 1
+![Project 1](path/to/image1.jpg)
+**Description:** Brief description of Project 1.
+
+## Project 2
+![Project 2](path/to/image2.jpg)
+**Description:** Brief description of Project 2.
