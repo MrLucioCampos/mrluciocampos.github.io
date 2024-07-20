@@ -83,6 +83,9 @@ comments:
   disqus_shortname: #Your site id : check your address https://{{ disqus.shortname }}.disqus.com/admin/
   cactus_shortname: #Your site id as registered with Cactus.chat
   
+
+#------------------------------------------------------------------------NAVIGATION-----------------------------------------------------------------------------------
+
 # B. Navigation
 # Configure your navbar and the footer of your site
 
@@ -101,12 +104,16 @@ navbar:
     url     : /blog/ # url	
   - title   : Portfolio # Label
     url     : /portfolio/ # url	
+
 #  - title   : # Label submenu
 #    child:		
 #    - title: # Child label		
 #      url  : # child url	
 #    - title: # Child label		
 #      url  : # child url	
+
+#-----------------------------------------------------------------------FOOTER------------------------------------------------------------------------------------
+
 #Social links to be placed on your site footer
 footer:
   links:
@@ -124,6 +131,9 @@ footer:
       url:  "https://www.twitch.tv/mrluciocampos"
   copyright: # default is © <year> <name> 
   
+
+#-----------------------------------------------------------------------THEME SETTINGS------------------------------------------------------------------------------------
+
 # C. Theme Settings
 # Google Fonts https://fonts.google.com/, add as many as you need
 googlefonts:
