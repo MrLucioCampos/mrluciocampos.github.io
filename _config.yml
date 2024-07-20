@@ -162,6 +162,7 @@ collections:
 collections:
   portfolio:
     output: true
+    permalink: /portfolio/:name
 
 collections_dir     : 
 permalink           : /:categories/:year/:month/:day/:title:output_ext
