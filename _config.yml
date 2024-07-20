@@ -158,6 +158,11 @@ collections:
   cheatsheet:
     output: true
     permalink: /cheatsheets/:name
+
+collections:
+  portfolio:
+    output: true
+
 collections_dir     : 
 permalink           : /:categories/:year/:month/:day/:title:output_ext
 
